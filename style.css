@@ -1,0 +1,82 @@
+body{
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+img{
+    width: 15%;
+    height: 15%;
+    border-radius: 20px 20px 20px 20px;
+    margin-top: 20px;
+}
+
+header{
+    background-image: url("texture.jpg");
+    text-align: center;
+}
+
+header>p{
+    font-size: 40px;
+    color: beige;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+nav>a{
+    padding-left: 40px;
+    text-align: center;
+    font-size: 25px;
+    color: beige;
+    text-decoration: none;
+}
+
+nav{
+    padding-bottom: 20px;
+}
+
+nav>a:hover{
+    color: rgb(250, 181, 235);
+}
+
+#about{
+    background-color: rgb(165, 42, 42, 0.5);
+    padding-left: 20px;
+    line-height: 20px;
+    padding: 10px;
+}
+
+#loves{
+    background-color: rgb(149, 69, 53, 0.5);
+    padding-left: 20px;
+    line-height: 20px;
+    padding: 10px;
+}
+
+#contact{
+    background-color: rgb(665, 42, 42, 0.5);
+    padding-left: 20px;
+    line-height: 20px;
+    padding: 10px;
+}
+
+h1,h2,h3{
+    font-size: 25px;
+    padding-top: 10px;
+}
+
+p{
+    font-size: 18px;
+    padding-bottom: 10px;
+}
+
+.behance{
+    font-size: 18px;
+    color: black;
+    padding-left: 0px;
+    margin-bottom: 10px;
+    text-decoration: none;
+}
+
+.behance:hover{
+    color:beige;
+}
