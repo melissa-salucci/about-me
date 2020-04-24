@@ -45,6 +45,16 @@ nav>a:hover{
     padding: 10px;
 }
 
+#skills, #logiciels{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#travail{
+    display: flex;
+    justify-content: space-around;
+}
+
 #loves{
     background-color: rgb(149, 69, 53, 0.5);
     padding-left: 20px;
